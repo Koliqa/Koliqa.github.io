@@ -13,7 +13,7 @@
 
 ---
 
-## Навыки (Skills)
+## Навыки
 
 - **Языки программирования**: Python, JavaScript, C/C++
 - **Фреймворки и библиотеки**: Django, SocketIO, Flask, (Data Science инструменты: NumPy, Pandas, Matplotlib) и т.д.
