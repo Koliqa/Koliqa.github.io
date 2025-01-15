@@ -49,7 +49,9 @@
 
 ## Прочие проекты/работы
 - Выполнение заданий и проектов Яндекс.Практикум на заказ
-- Некоторые скрипты, рабтоа которых будет в будущем демонстрироваться в видеоуроках у https://youtube.com/@sozdav_ai
+- Некоторые скрипты, работа которых будет в будущем демонстрироваться в видеоуроках у https://youtube.com/@sozdav_ai
+- Технология RayCasting на C++: https://youtu.be/_80FVDzTzgU?si=ZLLgMhYr0t4D2AQV
+- Технология RayCasting на Python с мультиплеером при использовании socket: https://youtu.be/q5czNrfeVOY?si=1cAV6SFqmpUgCPSZ
 
 ---
 
