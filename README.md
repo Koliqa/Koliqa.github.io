@@ -46,7 +46,7 @@
 ### 3. Бэкенд ZNAI
 - **Описание**: Бэкенд telegram miniapp для приложения по подготовке к ЕГЭ ZNAI
 - **Технологии**: Python, Django, Celery, Postgres, Aiogram, Nginx, Gunicorn
-- **Результаты**: [https://www.t.me/obyasni_center_develop_bot](ZNAI - временное расположение, продукт в процессе передачи)  
+- **Результаты**: [ZNAI - временное расположение, продукт в процессе передачи](https://www.t.me/obyasni_center_develop_bot)  
 - **Причина существования**: Заказ от obyasni.center
 - **Временной промежуток**: август 2025-н.в.
 
